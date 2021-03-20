@@ -26,7 +26,7 @@ django-recurrence==1.10.1
 django_saml2_auth==2.2.1
 
 # Django REST Framework
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 
 # Yet another Swagger generator
 drf-yasg==1.16.1
